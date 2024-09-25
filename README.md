@@ -2,6 +2,10 @@ B1:
 
 Tìm vị trí folder/ Chuột phải/ Open Git Bash here
 
+B2:
+
+git config --global user.name ""
+git config --global user.email 
 
 B2:
 
